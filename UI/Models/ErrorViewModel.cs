@@ -1,4 +1,4 @@
-namespace EcoTaste.Models {
+namespace UI.Models {
     public class ErrorViewModel {
         public string? RequestId { get; set; }
 
